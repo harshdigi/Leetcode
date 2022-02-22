@@ -10,14 +10,15 @@ public:
             return 0;
         }
         for(int i=0;i<hL;i++){
-            
-            if (j>=nL){
-                return index;
-            }
+          
             if(haystack[i]== needle[j]){
-                if(j==0)
-                index =i;
+                if(j==0){
+                    index =i;
+                }
                 j++;
+                if (j>=nL){
+                    return index;
+                }
             }
             else{
                 if(index!=-1){
@@ -29,9 +30,7 @@ public:
                 
             }
         }
-        if(j!=nL){
-            index=-1;
-        }
-        return index;
+        
+        return -1;
     }
 };
