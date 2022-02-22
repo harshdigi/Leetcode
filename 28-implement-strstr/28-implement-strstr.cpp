@@ -10,6 +10,7 @@ public:
             return 0;
         }
         for(int i=0;i<hL;i++){
+            
             if (j>=nL){
                 return index;
             }
@@ -20,10 +21,12 @@ public:
             }
             else{
                 if(index!=-1){
+                   
                     i=index;
                     index=-1;
                     j=0;
                 }
+                
             }
         }
         if(j!=nL){
