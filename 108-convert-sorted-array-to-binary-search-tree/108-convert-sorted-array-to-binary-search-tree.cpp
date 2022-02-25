@@ -20,8 +20,9 @@ public:
         int mid= left +((right-left)+1)/2;
         
         TreeNode* node = new TreeNode(nums[mid]);
-        node->right= splitTree(nums, mid+1, right);
+        
         node->left= splitTree(nums,left,mid-1);
+        node->right= splitTree(nums, mid+1, right);
         
         return node;
         
