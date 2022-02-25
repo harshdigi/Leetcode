@@ -17,10 +17,8 @@ public:
         if(left>right){
             return NULL;
         }
-        int mid= left +((right-left)+1)/2;
-        
+        int mid= (right+left)/2;
         TreeNode* node = new TreeNode(nums[mid]);
-        
         node->left= splitTree(nums,left,mid-1);
         node->right= splitTree(nums, mid+1, right);
         
