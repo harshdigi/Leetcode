@@ -13,15 +13,13 @@ class Solution {
 public:
     
     TreeNode* splitTree(vector<int>& nums, int left,int right){
+        if(left>right)return NULL;
         
-        if(left>right){
-            return NULL;
-        }
         int mid= (right+left)/2;
-        TreeNode* node = new TreeNode(nums[mid]);
-        node->left= splitTree(nums,left,mid-1);
-        node->right= splitTree(nums, mid+1, right);
         
+        TreeNode* node = new TreeNode(nums[mid]);
+        node->right= splitTree(nums, mid+1, right);
+        node->left= splitTree(nums,left,mid-1);
         return node;
         
     }
