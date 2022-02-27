@@ -4,7 +4,7 @@ public:
         
         int size = nums.size();
         unordered_map<int, int> isavailable;
-        for(int i =0;i<size;i++){
+        for(int i =0;i<nums.size();i++){
             int nextValue = target-nums[i];
             if(isavailable.find(nextValue) != isavailable.end()){
                 int insertValue = isavailable.at(nextValue)-1;      
@@ -15,6 +15,7 @@ public:
 
         }
         return {};
+        
         
     }
 };
