@@ -11,9 +11,8 @@ public:
                 return {insertValue,i};
                 
             }
-            else{
                 isavailable[nums[i]]= i+1;
-            }
+
         }
         return {};
         
