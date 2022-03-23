@@ -10,19 +10,19 @@
  */
 class Solution {
 public:
+    bool ans =true;
+    void check (ListNode*& low, ListNode* high){
+        if(!high) return;
+        
+        check(low, high->next);
+        if(high->val != low->val){
+            ans=false;
+        }
+        low=low->next;
+    }
     bool isPalindrome(ListNode* head) {
-        vector<int> temp;
-        while(head != NULL){
-            temp.push_back(head->val);
-            head=head->next;
-        }
-        int low=0,high = temp.size()-1;
-        while(low<=high){
-            if(temp[low]!=temp[high])
-                return false;
-            low++;
-            high--;
-        }
-        return true;
+        ListNode* low= head;
+        check(low,head);
+        return ans;
     }
 };
