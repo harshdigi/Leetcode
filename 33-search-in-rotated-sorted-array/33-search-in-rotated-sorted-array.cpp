@@ -3,7 +3,7 @@ public:
    int search(vector<int>& nums, int target) {
         int low=0,high=nums.size()-1;
         while(low<=high){
-            int mid= (high+low)/2;
+            int mid= low+(high-low)/2;
             if(nums[mid] == target)return mid;
             else if (nums[low]<= nums[mid]){
                 if(target< nums[mid] && nums[low]<= target)high=mid-1;
