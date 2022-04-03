@@ -16,7 +16,7 @@ public:
                 if(nums[i] == nums[i-1])break;}
                 if(nums[low]+nums[high]+nums[i]==0){
                     ans.push_back({nums[i],nums[low], nums[high]});
-                        while(low<high && nums[low]==nums[low+1])low++;
+                    while(low<high && nums[low]==nums[low+1])low++;
                     while(low<high && nums[high]==nums[high-1])high--;
                     low++;
                     high--;
