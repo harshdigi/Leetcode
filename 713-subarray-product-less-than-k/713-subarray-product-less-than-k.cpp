@@ -5,8 +5,9 @@ public:
         int pro=nums[0];
         int i=1,j=0;
         
-        for(auto x:nums) 
+        for(auto x:nums){
             if(x<k){ans++;}
+        }
         
         while(i<nums.size()){
             pro*=nums[i];
