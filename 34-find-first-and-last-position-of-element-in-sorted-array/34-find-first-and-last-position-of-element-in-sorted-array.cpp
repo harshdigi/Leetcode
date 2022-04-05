@@ -2,9 +2,7 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         vector<int> ans ={-1,-1};
-        if(nums.size()==0){
-            return {-1,-1};
-        }
+        if(nums.size()==0){return ans;}
         int left =0,right = nums.size()-1;
         while(left<=right){
             int mid = (left+right)/2;
