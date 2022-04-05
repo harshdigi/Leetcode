@@ -3,9 +3,9 @@ public:
     vector<int> findAnagrams(string s, string p) {
          int sizeS = s.length();
         int sizeP = p.length();
-        if(sizeP>sizeS){
-            return {};
-        }
+        
+        vector<int> ans;
+        if(sizeP>sizeS){return ans;}
         vector<int> hashS(26,0);
         vector<int> hashP(26,0);
         
@@ -13,7 +13,6 @@ public:
             hashS[s[i] - 'a']++;
             hashP[p[i] - 'a']++;
         }
-        vector<int> ans;
         
         int i=0;
         if(hashS==hashP){
