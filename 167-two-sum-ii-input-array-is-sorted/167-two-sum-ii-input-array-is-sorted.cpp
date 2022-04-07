@@ -11,9 +11,9 @@ public:
                 return ans;
                 
             }
-            else if (num[mid]>t){
-                r=mid;
-            }
+            // else if (num[mid]>t){
+            //     r=mid;
+            // }
             else if(num[l]+num[r]<t){
                 l++;
             }
