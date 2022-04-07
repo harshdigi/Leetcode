@@ -5,16 +5,17 @@ public:
         vector<int> ans(2,0);
         while(l<=r){
             int mid  = l +(r-l)/2;
-            if(num[l]+num[r]== t){
+            int sum = num[l]+num[r];
+            if(sum == t){
                 ans[0]=l+1;
                 ans[1]=r+1;
                 return ans;
                 
             }
-            // else if (num[mid]>t){
-            //     r=mid;
-            // }
-            else if(num[l]+num[r]<t){
+            else if (num[mid]>t){
+                r=mid;
+            }
+            else if(sum<t){
                 l++;
             }
             else{
