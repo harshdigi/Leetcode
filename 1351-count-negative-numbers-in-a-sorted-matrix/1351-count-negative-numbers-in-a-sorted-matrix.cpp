@@ -16,9 +16,9 @@ public:
             
             int left =0;
             int right = col-1;
-            if(grid[i][right]>=0){
-                continue;
-            }
+            // if(grid[i][right]>=0){
+            //     continue;
+            // }
             while(left<=right){
                 int mid= left + (right-left)/2;
                 
