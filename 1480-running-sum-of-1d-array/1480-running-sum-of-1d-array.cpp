@@ -6,10 +6,13 @@ public:
         if(nums.size() == 1 || nums.size() == 0){
             return nums;
         }
-       
-        prefixSum.push_back(nums[0]);
+        // setting first elemet equals to sum
+        int sum=nums[0];
+        // inserting the 
+        prefixSum.push_back(sum);
         for(int i=1;i<nums.size();i++){
-            prefixSum.push_back(prefixSum[i-1] + nums[i]);
+            sum = sum+nums[i];
+            prefixSum.push_back(sum);
         }
         return prefixSum;
     }
