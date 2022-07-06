@@ -6,10 +6,10 @@ public:
         if(nums.size() == 1 || nums.size() == 0){
             return nums;
         }
-        int sum =0;
-        for(int i=0;i<nums.size();i++){
-            sum = sum+nums[i];
-            prefixSum.push_back(sum);
+       
+        prefixSum.push_back(nums[0]);
+        for(int i=1;i<nums.size();i++){
+            prefixSum.push_back(prefixSum[i-1] + nums[i]);
         }
         return prefixSum;
     }
