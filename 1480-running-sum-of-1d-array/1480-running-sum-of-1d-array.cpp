@@ -8,9 +8,11 @@ public:
         }
         // setting first elemet equals to sum
         int sum=nums[0];
-        // inserting the 
+        // inserting the sum in output array
         prefixSum.push_back(sum);
+        // inserting running sum in output array
         for(int i=1;i<nums.size();i++){
+            // new sum will the add of current sum + current element in nums array
             sum = sum+nums[i];
             prefixSum.push_back(sum);
         }
