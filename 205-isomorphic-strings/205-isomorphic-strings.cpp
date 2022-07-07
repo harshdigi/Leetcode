@@ -1,9 +1,6 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.length()!= t.length()){
-            return false;
-        }
         unordered_map<char, int> prevS, prevT;
         
         for(int i =0 ;i<s.length();i++){
