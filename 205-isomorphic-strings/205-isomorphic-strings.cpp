@@ -1,23 +1,21 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, int> prevS, prevT;
-        
-        for(int i =0 ;i<s.length();i++){
-            if(prevS[s[i]] !=0){
-                if(t[i] != t[prevS[s[i]] -1 ]){
+        unordered_map<char, char> prev1, prev2;
+        for(int i =0; i<s.length();i++){
+            if(prev1.find(s[i]) != prev1.end()){
+                if(prev1[s[i]] != t[i]){
                     return false;
                 }
             }
-            else if(prevT[t[i]]!=0){
-                if(s[i] != s[prevT[t[i]]]-1){
+            if(prev2.find(t[i]) != prev2.end()){
+                if(prev2[t[i]] != s[i]){
                     return false;
                 }
             }
-            prevS[s[i]] =i+1;
-            prevT[t[i]] = i+1;
-        }
-        
-      return true;  
+            prev1[s[i]] = t[i];
+            prev2[t[i]] = s[i];
+        }        
+      return true;   
     }
 };
