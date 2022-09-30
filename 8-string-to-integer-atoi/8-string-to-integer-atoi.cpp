@@ -10,7 +10,7 @@ public:
         if(s[i] != '+' and s[i] != '-' and  !isdigit(s[i])){
             return num;
         }
-        if(s[i] == '-'){
+        else if(s[i] == '-'){
             neg = true;
             i++;
         }
