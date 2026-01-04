@@ -17,12 +17,14 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshdigi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshdigi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/harshdigi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshdigi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshdigi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/harshdigi/Leetcode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/harshdigi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
