@@ -29,4 +29,28 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshdigi/Leetcode/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
