@@ -21,6 +21,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshdigi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/harshdigi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/harshdigi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshdigi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -34,6 +35,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshdigi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/harshdigi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdigi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -62,4 +64,8 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/harshdigi/Leetcode/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshdigi/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
