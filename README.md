@@ -10,6 +10,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/harshdigi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/harshdigi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshdigi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/harshdigi/Leetcode/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | [0011-container-with-most-water](https://github.com/harshdigi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/harshdigi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/harshdigi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdigi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshdigi/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/harshdigi/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -94,4 +96,8 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/harshdigi/Leetcode/tree/master/0392-is-subsequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
