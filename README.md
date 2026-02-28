@@ -47,6 +47,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdigi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshdigi/Leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/harshdigi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/harshdigi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -103,4 +104,17 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
