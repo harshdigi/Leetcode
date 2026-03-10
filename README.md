@@ -32,6 +32,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | [0151-reverse-words-in-a-string](https://github.com/harshdigi/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdigi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/harshdigi/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/harshdigi/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/harshdigi/Leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/harshdigi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -49,6 +50,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | [0169-majority-element](https://github.com/harshdigi/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/harshdigi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/harshdigi/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/harshdigi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Binary Search
