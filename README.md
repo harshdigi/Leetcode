@@ -44,6 +44,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshdigi/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/harshdigi/Leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/harshdigi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/harshdigi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/harshdigi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshdigi/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,6 +89,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshdigi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/harshdigi/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -101,6 +103,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/harshdigi/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/harshdigi/Leetcode/tree/master/0392-is-subsequence) |
 ## Union-Find
 |  |
