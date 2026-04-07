@@ -53,6 +53,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | [0238-product-of-array-except-self](https://github.com/harshdigi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/harshdigi/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/harshdigi/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/harshdigi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/harshdigi/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Binary Search
 |  |
@@ -122,4 +123,8 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/harshdigi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
