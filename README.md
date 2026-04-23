@@ -39,6 +39,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/harshdigi/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/harshdigi/Leetcode/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -134,4 +135,5 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshdigi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/harshdigi/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
