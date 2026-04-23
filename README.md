@@ -19,6 +19,7 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshdigi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/harshdigi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshdigi/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshdigi/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -129,4 +130,8 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harshdigi/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/harshdigi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
