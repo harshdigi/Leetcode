@@ -118,10 +118,12 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshdigi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshdigi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/harshdigi/Leetcode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
@@ -136,4 +138,12 @@ Hi this the collection of leetcode question solved using C++. If you want to con
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshdigi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/harshdigi/Leetcode/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshdigi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshdigi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
